@@ -17,3 +17,10 @@
 - [x] Archivos *.txt
 
 [Acceso al corpus](https://github.com/isag91/Guerrilla-Discourse)
+
+#### Conversaciones coloquiales corpus Ameresco
+- [ ] Descripción del corpus y método de recolección de textos
+- [x] Textos completos
+- [x] Acceso abierto
+- [ ] Archivos *.txt
+[Acceso al corpus](http://esvaratenuacion.es/corpus-discursivo-propio/)
